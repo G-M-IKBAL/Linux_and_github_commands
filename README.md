@@ -3,16 +3,35 @@
 
 Linix_commands
 
-ls - list the files and directories in the current directory
-cd - change the current working directory
-pwd - display the current working directory
-cp - copy a file or directory
-mv - move or rename a file or directory
-rm - remove a file or directory
-mkdir - create a new directory
-rmdir - remove an empty directory
-cat - concatenate and display the contents of files
-echo - display a message or the value of a variable on the screen.
+#ls  
+list the files and directories in the current directory
+
+#cd 
+change the current working directory
+
+#pwd   
+display the current working directory
+
+#cp  
+copy a file or directory
+
+#mv  
+move or rename a file or directory
+
+#rm 
+remove a file or directory
+
+#mkdir  
+create a new directory
+
+#rmdir  
+remove an empty directory
+
+#cat 
+concatenate and display the contents of files
+
+#echo  
+display a message or the value of a variable on the screen.
 
 
 Git hub commands
